@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biardianto
-- 👀 I’m interested in odoo flutter nodejs
-- 🌱 I’m currently learning odoo14 flutter node-red
+- 👀 I’m interested in odoo elixir nodejs
+- 🌱 I’m currently learning odoo phoenix
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
